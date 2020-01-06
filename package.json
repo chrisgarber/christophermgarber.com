@@ -1,0 +1,23 @@
+{
+  "name": "Personal Site",
+  "version": "0.0.1",
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^2.18.12",
+    "gatsby-image": "^2.2.37",
+    "gatsby-plugin-layout": "^1.1.18",
+    "gatsby-plugin-sharp": "^2.3.10",
+    "gatsby-source-filesystem": "^2.1.43",
+    "gatsby-theme-blog": "^1.2.7",
+    "gatsby-theme-notes": "^1.0.31",
+    "gatsby-transformer-sharp": "^2.3.9",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "styled-components": "^4.4.1"
+  }
+}

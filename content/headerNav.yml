@@ -1,0 +1,16 @@
+items:
+  - title: About
+    to: /about
+    activeSelector: /about/
+  - title: Programmer
+    to: /programing-resume.html
+    activeSelector: /programing-resume
+  - title: Actor
+    to: /acting-resume.html
+    activeSelector: /acting-resume
+  - title: Sci-fi
+    to: /sci-fi_blog/sci-fi_blog.html
+    activeSelector: /sci-fi_blog
+  - title: Gallery
+    to: /gallery
+    activeSelector: /gallery
